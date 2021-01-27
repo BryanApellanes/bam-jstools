@@ -1,0 +1,19 @@
+{
+  "name": "@bamapps/bam-jstools",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BryanApellanes/bam-jstools.git"
+  },
+  "author": "Bryan Apellanes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BryanApellanes/bam-jstools/issues"
+  },
+  "homepage": "https://github.com/BryanApellanes/bam-jstools#readme"
+}
